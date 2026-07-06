@@ -12,13 +12,17 @@ A structured repository containing course materials for Probability and Statisti
 
 ## Repository Structure
 
+```text
+Probability-and-Statistics/
 ├── README.md
 └── docs/
     ├── formula-sheet/
     ├── notes/
     ├── past-exams/
     │   └── Final/
-    └─reference-tables/
+    ├── reference-tables/
+    └── slides/
+```
      
     
 ## Topics Covered
